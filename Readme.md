@@ -1,11 +1,38 @@
-This Jupyter Notebook's consist the following topics:
+# This Jupyter Notebook's consist of Python Fundamentals learning and Practicethe following topics:
 
-    1. Basis arithmatic operations 
-    2. Control and Conditional Structures
-    3. Looping - For, while loops
-    4. User Input
-    5. Strings
-    6. Integers
-    7. Floating Values
-    8. Typecasting
-    9. OS Modules and File Object handeling 
+
+### Part 1: Basic Fundamentals and Syntax
+
+-    * Basis arithmatic operations 
+-    * Control and Conditional Structures
+-    * Looping - For, while loops
+-    * User Input
+-    5. Strings
+-    * Integers
+-    * Floating Values
+-    * Typecasting
+-    * OS Modules and File Object handeling 
+
+
+### Part 2: Built In Data Structures
+
+-    *  Strings and Inbuilt functions
+-    * List, Boolean variables Inbuit functions
+-    * Set Inbuilt functions
+-    * Dictionaries
+-    * Tuples
+-    * Functions in Python
+-    * Lambda Functions
+-    * Iterators and generators
+-    * Exception Handling * Import libraires
+
+
+### Part 3: Object Oriented Programming Conceps (OOP's):
+
+-    * Classes 
+-    * Objects
+-    * Methods
+-    * Inheritance
+-    * Polymorphism
+-    * Data Abstraction
+-    * Encapsulation
