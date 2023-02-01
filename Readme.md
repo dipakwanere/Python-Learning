@@ -1,4 +1,4 @@
-# This Jupyter Notebook's consist of Python Fundamentals learning and Practicethe following topics:
+# This Jupyter Notebook's consist of Python Fundamentals learning on following topics:
 
 
 ### Part 1: Basic Fundamentals and Syntax
