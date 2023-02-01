@@ -16,7 +16,7 @@
 
 ### Part 2: Built In Data Structures
 
--   Strings and Inbuilt functions
+-  Strings and Inbuilt functions
 -  List, Boolean variables Inbuit functions
 -  Set Inbuilt functions
 -  Dictionaries
@@ -36,3 +36,34 @@
 -  Polymorphism
 -  Data Abstraction
 -  Encapsulation
+
+### Part 4: Python Packages & Libraries:
+
+-  Pandas 
+-  NumPy
+-  Matplotlib
+-  Seaborn
+-  SciPy
+-   
+### Specialization Python Libraries for ML & Deep Learning:
+
+-  Machine Learning & Deep Learning -
+        *  Pandas 
+        *  NumPy
+        *  Matplotlib
+        *  Seaborn
+        *  SciPy
+        *  Sci-kit learn
+        *  Keras
+        *  TensorFlow
+        *  PyTorch
+        *  DASK
+        *  Django
+        *  Flask
+
+
+-  Web Development frameworks -  
+-  Building Desktop Application
+-  
+- 
+-  
